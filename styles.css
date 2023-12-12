@@ -1,0 +1,43 @@
+body {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+* {
+    margin: 0 auto;
+}
+
+header {
+    margin: 20px;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    margin: 30px;
+    color:chocolate;
+}
+
+table {
+    border: 2px solid lightcoral;
+    border-radius: 8px;
+}
+
+th {
+    background-color:darksalmon;
+    padding: 2px;
+}   
+
+.tag {
+    font-family: monospace;
+    display: inline-block;
+    background-color:bisque;
+}
+
+td {
+    border-bottom: 1px solid darkorchid;
+    margin: 5px;
+}
+
+#noline {
+    border:none;
+}
